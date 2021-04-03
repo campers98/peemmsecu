@@ -19,6 +19,7 @@ The easiest way to deploy this Bot
 
 ```
 ❤️ Mr Sammy = @opSammy
+💜 kittu    = @YourKittu
 💙 Himanshu = @H1M4N5HU0P
 💗 Innexia  = @TeamInnexia
 ```
