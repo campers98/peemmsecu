@@ -1,0 +1,16 @@
+wheel
+pip 
+setuptools 
+#PyGithub
+#async_generator
+#gitpython
+hachoir
+heroku3
+httplib2
+#humanize
+python-dotenv
+sqlalchemy==1.3.23
+telethon==1.19.0
+pylast
+pySmartDL
+psycopg2
